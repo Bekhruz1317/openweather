@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 600px;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(135, 207, 235, 0.44);
+}
+
+.container{
+    text-align: center;
+    border: 1px dashed rgb(9, 9, 202);
+    border-radius: 40% 40%  40% 0%;
+    padding: 50px;
+    background-color: rgba(43, 95, 226, 0.844);
+}
